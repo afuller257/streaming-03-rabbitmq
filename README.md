@@ -7,7 +7,7 @@ Get started with RabbitMQ, a message broker, that enables multiple processes to 
 1. Fork this starter repo into your GitHub.
 1. Clone your repo down to your machine.
 1. In VS Code with Python extension, click on emit_message_v1.py to get VS Code in Python mode.
-1. View / Command Palette - then Python: Select Interpreter
+1. View / Command Palette - then Python: Select  Interpreter
 1. Select your conda environment. See the references below for more.
 1. Use the terminal to install pika into your active environment. 
 
@@ -94,4 +94,7 @@ Each of the version 2 programs include an error as well.
 
 ## Multiple Terminals
 
-![Mac Example](Terminals.png)
+![Mac Example][def]
+
+
+[def]: Terminals.png
